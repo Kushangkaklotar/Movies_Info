@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - LTMorphingLabel (0.9.3)
+  - ObjectMapper (3.5.3)
+  - SDWebImage (5.20.0):
+    - SDWebImage/Core (= 5.20.0)
+  - SDWebImage/Core (5.20.0)
+  - Toast-Swift (5.1.1)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - LTMorphingLabel
+  - SDWebImage (~> 5.0)
+  - Toast-Swift (~> 5.1.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - LTMorphingLabel
+    - ObjectMapper
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  LTMorphingLabel: f2b256e4fe665aac27f0d0e8ccdcd79590f0cd70
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  SDWebImage: 73c6079366fea25fa4bb9640d5fb58f0893facd8
+  Toast-Swift: 7a03a532afe3a560d4044bc7c237e2864d295173
+
+PODFILE CHECKSUM: 8d469a57e8eda558b1c8e47023212c39da444b55
+
+COCOAPODS: 1.15.2
